@@ -18,3 +18,9 @@ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux-mint
 sudo apt update
 
 sudo apt install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+
+# Alternative Methods
+
+sudo apt-get update
+
+sudo apt-get install ./docker-desktop-amd64.deb
