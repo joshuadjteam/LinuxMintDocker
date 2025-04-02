@@ -1,7 +1,7 @@
 # LinuxMintDocker
 Guide to install Docker on Linux Mint
 
-#Code
+# Code
 
 sudo apt update
 
